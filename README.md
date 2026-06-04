@@ -5,6 +5,6 @@ I use the mnist data set to train and test mi neural network, i have to process 
 
 The neural network is a basic linear regression model, with the standar fordward and backward seccuence, and all the data of the neural network, meaning the all the weights, biases and outputs from each layer, are stored and managed by a matrix class, that also handles all of the math.
 
-You are welcome to check the website i create here: 
+You are welcome to check the website i create here: https://ripaalsinapedro.github.io/Digit-Recognition-Neural-Network/
 
 This website comes with a pre train model of 16 neurons and 1000 iterations of training, and a board where you can input some digits to test it. It also allows the user to load pre train models from a json file, create a new model, train it and test it. This new model can also be saved onto a json file.
